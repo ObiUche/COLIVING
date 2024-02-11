@@ -1,0 +1,37 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "name": "Modern Property W Balcony",
+      "location": "Central London",
+      "price": 1500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": ["Wi-Fi", "Balcony", "Kitchen"],
+      "available": true,
+      "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/large/90/47/90476743.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Single Room",
+      "location": "Hackney - East London",
+      "price": 650,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": ["Furnished", "Flatshare", "Gym"],
+      "available": true,
+      "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/large/90/46/90461261.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spacious Studio Flat",
+      "location": "Dalston East London",
+      "price": 1500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": ["Furnished", "Fireplace", "Parking"],
+      "available": false,
+      "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/large/90/10/90104745.jpg"
+    }
+  ]
+}
